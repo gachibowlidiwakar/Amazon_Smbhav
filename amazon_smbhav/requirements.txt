@@ -1,0 +1,10 @@
+celery
+redis
+requests
+beautifulsoup4
+langchain
+chromadb
+python-dotenv
+pypdf
+langchain_cohere
+sentence-transformers
